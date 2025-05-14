@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi",
+        "email": "admin@example.com",
+        "role": "admin",
+        "registered": "2024-01-20",
+        "favorites": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "discord": "alexenotov",
+        "telegram": ""
+    },
+    {
+        "id": 2,
+        "username": "AlexEnotov",
+        "email": "alexsportmos@gmail.com",
+        "password": "$2y$10$xQ9e5KngXz66OVYGJriiq.smm9X56MvoYXiJMwoBb\/e9qql.VSfPe",
+        "role": "member",
+        "registered": "2025-05-14",
+        "favorites": [
+            1
+        ]
+    }
+]
