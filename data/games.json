@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "title": "Elden Ring",
+        "description": "Компьютерная игра в жанре action\/RPG с открытым миром, разработанная японской компанией FromSoftware и изданная компанией Bandai Namco Entertainment для платформ Windows, PlayStation 4, PlayStation 5, Xbox One и Xbox Series X\/S. Руководителем разработки игры является Хидэтака Миядзаки, а американский писатель Джордж Мартин, известный по циклу книг «Песнь льда и огня», выступил консультантом и соавтором сценария.",
+        "image": "https:\/\/sun9-87.userapi.com\/impg\/U4mHsU2RfMtmtJChIPTFW53dLWFnqINFu_00HA\/17-V0nesB4w.jpg?size=1200x675&quality=95&sign=3cd240a442879ff6aa5252f355499b84&c_uniq_tag=pY6KMxsPp4fo19ewgYf2AjXcRRfc8O_yTUD20ihtCoc&type=album",
+        "category": "RPG MMO",
+        "created_at": "2024-01-20",
+        "categories": [
+            "Action",
+            "RPG"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Path of Exile",
+        "description": "многопользовательская компьютерная игра в жанре action\/RPG, разработанная и выпущенная компанией Grinding Gear Games для Windows в 2013 году. В 2017 году была выпущена версия для игровой приставки Xbox One, а в 2019 году — для PlayStation 4.",
+        "categories": [
+            "MMO",
+            "ARPG"
+        ],
+        "image": "https:\/\/www.digiseller.ru\/preview\/844353\/p1_2604149_5447f645.jpg",
+        "created_at": "2025-05-14 10:57:20"
+    },
+    {
+        "id": 3,
+        "title": "Valheim",
+        "description": "компьютерная игра в жанре симулятора выживания с видом от третьего лица в открытом мире. Разрабатывалась шведской компанией Iron Gate и издана компанией Coffee Stain.",
+        "categories": [
+            "RPG",
+            "Survival"
+        ],
+        "image": "https:\/\/pic.rutubelist.ru\/video\/2e\/ae\/2eaef7d3b7b3bb9c0f9a2fe6d7ef41a1.jpg",
+        "created_at": "2025-05-14 10:59:40"
+    },
+    {
+        "id": 4,
+        "title": "Last Epoch",
+        "description": "компьютерная игра в жанре hack and slash и action\/RPG, разработанная компанией Eleventh Hour Games. Её релиз состоялся 21 февраля 2024 года. Действие игры происходит в вымышленном мире Этерра (Eterra) в нескольких временных эпохах. Доступны пять игровых персонажей с собственными деревьями навыков.",
+        "categories": [
+            "MMO"
+        ],
+        "image": "https:\/\/avatars.mds.yandex.net\/get-mpic\/4355034\/2a0000018dedd8983148f29a29b3a49bac3b\/orig",
+        "created_at": "2025-05-14 11:01:52"
+    }
+]
